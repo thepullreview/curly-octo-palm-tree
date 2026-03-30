@@ -8,4 +8,5 @@ const BillingCard2 = () => {
   );
 };
 
+
 export default BillingCard2;
