@@ -5,5 +5,5 @@ import styles from './Card.css';
 type Props = {};
 
 export const Card: FC<Props> = (props) => (
-    <div></div>
+    <div>Hello, world!</div>
 );
